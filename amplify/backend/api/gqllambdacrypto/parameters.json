@@ -1,4 +1,0 @@
-{
-    "AppSyncApiName": "gqllambdacrypto",
-    "DynamoDBBillingMode": "PAY_PER_REQUEST"
-}
